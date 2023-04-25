@@ -13,6 +13,7 @@
   margin: 0;
   outline: none;
   padding: 0;
+  color: #1f2835;
 }
 
 #app {
