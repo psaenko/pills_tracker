@@ -1,0 +1,8 @@
+{
+  "name": "Трекер графіку прийому ліків",
+  "short_name": "Трекер ліків",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "them_color": "#000000"
+}
